@@ -1,3 +1,6 @@
 [submodule "hsr_handrobot"]
 	path = hsr_handrobot
 	url = https://github.com/wangneng666/hsr_handrobot.git
+[submodule "hs_handRobot_visionDetect"]
+	path = hs_handRobot_visionDetect
+	url = https://github.com/tjh-flash/hs_handRobot_visionDetect.git
