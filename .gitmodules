@@ -1,3 +1,9 @@
 [submodule "handrb_ui"]
 	path = handrb_ui
 	url = https://github.com/wangneng666/handrb_ui.git
+[submodule "pick_place_bridge"]
+	path = pick_place_bridge
+	url = https://github.com/StoneRobot/pick_place_bridge.git
+[submodule "reception_robot"]
+	path = reception_robot
+	url = https://github.com/StoneRobot/reception_robot.git
