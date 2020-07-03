@@ -1,0 +1,3 @@
+[submodule "handrb_ui"]
+	path = handrb_ui
+	url = https://github.com/wangneng666/handrb_ui.git
