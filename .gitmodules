@@ -7,3 +7,6 @@
 [submodule "reception_robot"]
 	path = reception_robot
 	url = https://github.com/StoneRobot/reception_robot.git
+[submodule "openni2_tracker"]
+	path = openni2_tracker
+	url = https://github.com/tjh-flash/openni2_tracker.git
