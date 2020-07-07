@@ -10,3 +10,9 @@
 [submodule "openni2_tracker"]
 	path = openni2_tracker
 	url = https://github.com/tjh-flash/openni2_tracker.git
+[submodule "hsr_impedance"]
+	path = hsr_impedance
+	url = https://github.com/wangneng666/hsr_impedance.git
+[submodule "daq_ros_driver"]
+	path = daq_ros_driver
+	url = https://github.com/wangneng666/daq_ros_driver.git
