@@ -16,3 +16,6 @@
 [submodule "daq_ros_driver"]
 	path = daq_ros_driver
 	url = https://github.com/wangneng666/daq_ros_driver.git
+[submodule "hsr_robot_voice"]
+	path = hsr_robot_voice
+	url = https://github.com/tjh-flash/hsr_robot_voice.git
