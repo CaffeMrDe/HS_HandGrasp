@@ -1,0 +1,8 @@
+<launch>
+    <include file="$(find hsr_bringup)/launch/co605_finger_go.launch" />
+    <include file="$(find gripper_bridge)/launch/gripper_bridge_finger.launch" />
+    <include file="$(find realsense2_camera)/launch/rs_camera.launch" />
+    <include file="$(find hsr_bring)/launch/publish_d435i_calibration_five_finger.launch" />
+    <include file="$(find reception_robot)/launch/fake_bringup.launch" />
+    <include "$(find vision_bridge)/launch/vision_bridge_yolo6d_hand_realsense2.launch" />
+</launch>

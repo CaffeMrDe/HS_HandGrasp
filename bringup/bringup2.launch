@@ -1,0 +1,6 @@
+<launch>
+    <include "$(find pick_place_bridge)/luaunch/bringup.launch" />
+    <!-- <include "$(find gripper_bridge)/launch/gripper_bridge_finger.launc" /> -->
+    <node pkg="gripper_bridge" type="five_finger_gripper.sh" />
+    
+</launch>
