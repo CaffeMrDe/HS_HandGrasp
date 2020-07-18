@@ -19,3 +19,6 @@
 [submodule "hsr_robot_voice"]
 	path = hsr_robot_voice
 	url = https://github.com/tjh-flash/hsr_robot_voice.git
+[submodule "add_obstacles"]
+	path = add_obstacles
+	url = https://github.com/StoneRobot/add_obstacles
